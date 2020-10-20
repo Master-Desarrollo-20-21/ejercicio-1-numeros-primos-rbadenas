@@ -2,28 +2,30 @@ namespace ejercicio_1_numeros_primos_rbadenas
 {
  public class EratosthenesNumber{
 
-        private readonly int number;
+        private readonly int value;
 
-        public EratosthenesNumber(int number)
+        public EratosthenesNumber(int value)
         {
-            this.number = number;
+            this.value = value;
         }
 
-        public int value(){ return number; }
-        public bool isPrime(){
+        public int Value(){ return value; }
+        
+        public bool IsPrime(){
 
-            if(number <2) return false;
+            if(value <2) return false;
 
             int divisor = 1;
             do
             {
                 divisor++;
-            } while (!isDivisibleBy(divisor) && divisor < number);
+            } while (!IsDivisibleBy(divisor) && divisor < value);
 
-            return number == divisor;
+            return value == divisor;
         }
-        private bool isDivisibleBy(int divisor){
-            return number % divisor == 0;
+        
+        private bool IsDivisibleBy(int divisor){
+            return value % divisor == 0;
         }
     
     }
