@@ -361,6 +361,9 @@ MigrationBackup/
 
 ### VisualStudioCode ###
 .vscode/*
+bin/*
+obj/*
+*.csproj
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
