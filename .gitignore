@@ -11,8 +11,8 @@
 
 
 ### VisualStudioCode ###
-*bin/
-*obj/
+/bin/
+/obj/
 *.csproj
 !*.cs
 !*/
