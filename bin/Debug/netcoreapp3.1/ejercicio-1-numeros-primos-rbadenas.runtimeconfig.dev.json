@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rubik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rubik\\.nuget\\packages"
+    ]
+  }
+}
