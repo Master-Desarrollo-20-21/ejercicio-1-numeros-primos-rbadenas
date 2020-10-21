@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rubik\\Desktop\\Máster desarrollo de software UPM\\2.Programación Orientada a Objetos\\Ejercicios\\Primos\\ejercicio-1-numeros-primos-rbadenas\\ejercicio-1-numeros-primos-rbadenas.csproj": {}
+    "c:\\Users\\Rubik\\Desktop\\Máster desarrollo de software UPM\\2.Programación Orientada a Objetos\\Ejercicios\\Primos\\ejercicio-1-numeros-primos-rbadenas\\ejercicio-1-numeros-primos-rbadenas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rubik\\Desktop\\Máster desarrollo de software UPM\\2.Programación Orientada a Objetos\\Ejercicios\\Primos\\ejercicio-1-numeros-primos-rbadenas\\ejercicio-1-numeros-primos-rbadenas.csproj": {
+    "c:\\Users\\Rubik\\Desktop\\Máster desarrollo de software UPM\\2.Programación Orientada a Objetos\\Ejercicios\\Primos\\ejercicio-1-numeros-primos-rbadenas\\ejercicio-1-numeros-primos-rbadenas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rubik\\Desktop\\Máster desarrollo de software UPM\\2.Programación Orientada a Objetos\\Ejercicios\\Primos\\ejercicio-1-numeros-primos-rbadenas\\ejercicio-1-numeros-primos-rbadenas.csproj",
+        "projectUniqueName": "c:\\Users\\Rubik\\Desktop\\Máster desarrollo de software UPM\\2.Programación Orientada a Objetos\\Ejercicios\\Primos\\ejercicio-1-numeros-primos-rbadenas\\ejercicio-1-numeros-primos-rbadenas.csproj",
         "projectName": "ejercicio-1-numeros-primos-rbadenas",
-        "projectPath": "C:\\Users\\Rubik\\Desktop\\Máster desarrollo de software UPM\\2.Programación Orientada a Objetos\\Ejercicios\\Primos\\ejercicio-1-numeros-primos-rbadenas\\ejercicio-1-numeros-primos-rbadenas.csproj",
+        "projectPath": "c:\\Users\\Rubik\\Desktop\\Máster desarrollo de software UPM\\2.Programación Orientada a Objetos\\Ejercicios\\Primos\\ejercicio-1-numeros-primos-rbadenas\\ejercicio-1-numeros-primos-rbadenas.csproj",
         "packagesPath": "C:\\Users\\Rubik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rubik\\Desktop\\Máster desarrollo de software UPM\\2.Programación Orientada a Objetos\\Ejercicios\\Primos\\ejercicio-1-numeros-primos-rbadenas\\obj\\",
+        "outputPath": "c:\\Users\\Rubik\\Desktop\\Máster desarrollo de software UPM\\2.Programación Orientada a Objetos\\Ejercicios\\Primos\\ejercicio-1-numeros-primos-rbadenas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rubik\\AppData\\Roaming\\NuGet\\NuGet.Config",
